@@ -10,7 +10,9 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-
+   
+   baseball/baseball.rst
+   soccer/soccer.rst
 
 
 
