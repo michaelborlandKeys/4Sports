@@ -21,6 +21,7 @@ Contents:
    football/history_football.rst
    football/stats_football.rst
    football/athletes_football.rst
-
+   basketball/basketball.rst
+   basketball/basketballhistory.rst
 
 
