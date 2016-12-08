@@ -12,3 +12,14 @@ the national phenomenon that it is today.
    :height: 200px
    :width: 200px
    :align: center
+
+Explore Football!
+-----------------
+
+.. toctree::
+   :maxdepth: 1
+
+   rules_football.rst
+   history_football.rst
+   stats_football.rst
+   athletes_football.rst

@@ -9,15 +9,18 @@ Welcome to 4Sports's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 2
    
    baseball/baseball.rst
    soccer/soccer.rst
    soccer/soccer_legends.rst
    soccer/soccer_fundamentals.rst
    soccer/soccer_global_stats.rst
-
-
+   football/home_football.rst
+   football/rules_football.rst
+   football/history_football.rst
+   football/stats_football.rst
+   football/athletes_football.rst
 
 
 
