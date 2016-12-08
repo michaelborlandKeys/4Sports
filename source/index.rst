@@ -23,5 +23,5 @@ Contents:
    football/athletes_football.rst
    basketball/basketball.rst
    basketball/basketballhistory.rst
-
+   basketballrules.rst
 
