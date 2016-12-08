@@ -14,8 +14,8 @@ Contents:
    baseball/baseball.rst
    soccer/soccer.rst
    soccer/soccer_legends.rst
-    soccer/soccer_fundamentals.rst
-   	 soccer/soccer_global_stats.rst
+   soccer/soccer_fundamentals.rst
+   soccer/soccer_global_stats.rst
 
 
 
