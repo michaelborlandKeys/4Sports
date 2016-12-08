@@ -1,5 +1,5 @@
 ==========================
-*Famous Basketball Players*
+**Famous Basketball Players**
 ==========================
 
 Michael Jordan
