@@ -24,4 +24,5 @@ Contents:
    basketball/basketball.rst
    basketball/basketballhistory.rst
    basketball/basketballrules.rst
+   basketball/basketball-stats.rst
 
