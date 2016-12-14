@@ -32,6 +32,8 @@ NCAA Records
 | Most Receiving TDs in a Career   | 60     | Jarett Dillard, Rice (2005-08)      |
 +----------------------------------+--------+-------------------------------------+
 
+For more NCAA Football records check out the `2016 NCAA Football Records <http://www.ncaa.org/championships/statistics/2016-ncaa-football-records>`_
+
 NFL Records
 -----------
 +----------------------------------+--------+-------------------------------------+
@@ -59,3 +61,5 @@ NFL Records
 +----------------------------------+--------+-------------------------------------+
 | Most Receiving TDs in a Career   | 197    | Jerry Rice (1985-2004)              |
 +----------------------------------+--------+-------------------------------------+
+
+For more NFL Records check out the `2015 Official NFL Record and Fact Book <https://nflcommunications.com/Documents/2015%20NFL%20Record%20and%20Fact%20Book.pdf>`_
