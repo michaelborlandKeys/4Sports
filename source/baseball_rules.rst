@@ -1,2 +1,0 @@
-The Rules of Baseball
-=====================
