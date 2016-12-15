@@ -14,6 +14,8 @@ Contents:
    baseball/baseball.rst
    baseball/baseball_rules.rst
    baseball/baseball_history.rst
+   baseball/baseball_players.rst
+   baseball/baseball_records.rst
    soccer/soccer.rst
    soccer/soccer_legends.rst
    soccer/soccer_fundamentals.rst

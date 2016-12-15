@@ -16,3 +16,6 @@ Explore Baseball!
    :maxdepth: 1
 
    baseball_rules.rst
+   baseball_history.rst
+   baseball_players.rst
+   baseball_records.rst

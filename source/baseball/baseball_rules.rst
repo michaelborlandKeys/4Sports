@@ -12,14 +12,20 @@ Fielding
 --------
 
 The team in the field has players in 9 positions. These consist of:
-* Pitcher
-* 1st baseman
-* 2nd baseman
-* shortstop
-* 3rd baseman
-* Catcher
-* Left Fielder
-* Right Fielder
+	* Pitcher
+	* 1st baseman
+	* 2nd baseman
+	* shortstop
+	* 3rd baseman
+	* Catcher
+	* Left Fielder
+	* Center Fielder
+	* Right Fielder
+
+.. image:: img/field.png
+   :height: 300px
+   :width: 300px
+   :align: center
 
 
 Each person in the field wears a padded glove to catch the baseball when thrown to them. The goal of the fielding team,
@@ -33,6 +39,10 @@ depending on what league you play in, and stands in the "batters box", next to h
 and throws the ball towards the catcher who stands behind home plate. The batter attempts to hit the ball while it is still in the air. If the batter makes a valid hit,
 then they drop the bat and run towards first base, and each base after, at their own disgression. Only one player can stand on a base at a time, so deciding where to go is important.
 
+.. image:: img/bats.png
+   :height: 300px
+   :width: 300px
+   :align: center
 
 Types of Hits
 -------------
