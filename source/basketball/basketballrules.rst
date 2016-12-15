@@ -1,8 +1,8 @@
-*The Rules of Basketball*
-
+The Rules of Basketball
+=======================
 
 Dr. James Naismith, the inventor of basketball, came up with thirteen rules for the game:
------------------------------------------------------------------------------------------
+
 	1. The ball may be thrown in any direction with one or both hands.
 	2. The ball may be batted in any direction with one or both hands, but never with the fist.
 	3. A player cannot run with the ball. The player must throw it from the spot on which he catches it, allowance to be made for a man running at good speed.
