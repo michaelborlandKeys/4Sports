@@ -20,6 +20,10 @@ Football is played on a field that is 120 yards long and 53 yards
 wide. The playing surface is 100 yards long with an endzone at each 
 end. Behind the endzone is the field goal post. 
 
+.. image:: img/field.png
+   :height: 200px
+   :align: center
+
 Possessions
 -----------
 A possession consists of 'downs' and 'plays.' The goal of the offense 
@@ -55,3 +59,7 @@ point conversion the offense must make it into the endzone again for
 2 points. As mentioned a team can kick a field goal if they aren't 
 able to score a touchdown. They must kick the ball through the field 
 goal post for 3 points
+
+.. image:: img/uprights.png
+   :height: 400px
+   :align: center
