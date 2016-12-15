@@ -147,3 +147,6 @@ These are the records of collegiate athletes from all divisions
 | 3 Pointers Made                  | 146    | Laura Malemee                       |
 +----------------------------------+--------+-------------------------------------+
 
+Fun Facts
+
+The average NBA player makes 5 million dollars a year. The length of the average NBA players career is 4.8 years. The average WNBA player makes 72,000 a year. The WNBA requires draftees to be at least 22 years old. The Chicago Bulls team has won all six NBA finals they've played in. Wang Zhizhi was the first Chinese player to compete in the NBA. The longest game in NBA history happened in 1951 when two teams went into six overtimes. The tallest professional basketball player is Paul Sturgess at 7'8". Dunking was banned from the sport in 1967 for ten years due to concerns of shattered backboards. 
