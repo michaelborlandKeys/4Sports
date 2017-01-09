@@ -2,6 +2,13 @@
 The History of Soccer 
 =====================
 
+	.. image:: img/shoe.jpg
+	      :height: 200px
+	      :width: 450px
+	      :scale: 50 %
+	      :alt: Soccer Cleet
+	      :align: right
+
 ===================
 *Origins of Soccer*
 ===================
