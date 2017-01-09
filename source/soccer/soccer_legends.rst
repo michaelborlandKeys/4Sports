@@ -22,32 +22,32 @@ Soccer Legends
 											   +-----------------------+-----------------------+
 											   | World Cup Matches     |18                     |                       
 											   +-----------------------+-----------------------+
-											   |World Cup Goals        |18              	   |                      
+											   |World Cup Goals        |18              	      |                      
 											   +-----------------------+-----------------------+
 											   |World Cups Won         |3                      |
-   											   +-----------------------+-----------------------+
-   											   |World Cups Lost        |1                      |
-   											   +-----------------------+-----------------------+
+   											+-----------------------+-----------------------+
+   											|World Cups Lost        |1                      |
+   										   +-----------------------+-----------------------+
 											   |Professional Clubs     |2                      |
-   											   +-----------------------+-----------------------+ 
+   											+-----------------------+-----------------------+ 
  											   |World Records Held     |2                      |
-   											   +-----------------------+-----------------------+ 
-   											   |Career Goals           |1,283                  |
-   											   +-----------------------+-----------------------+
-   											   |National Team Matches  |113                    |                      
+   											+-----------------------+-----------------------+ 
+   											|Career Goals           |1,283                  |
+   										   +-----------------------+-----------------------+
+   											|National Team Matches  |113                    |                      
 											   +-----------------------+-----------------------+
 											   |National Team Goals    |95                     |
-   											   +-----------------------+-----------------------+
-   											   | Career Matches        |1336                   |
-   											   +-----------------------+-----------------------+
+   										   +-----------------------+-----------------------+
+   											| Career Matches        |1336                   |
+   											+-----------------------+-----------------------+
 											   | Intercontenential Cup |Best Scorer of All-Time|
-   											   +-----------------------+-----------------------+ 
+   										   +-----------------------+-----------------------+ 
  											   |Years Played Pro       |1956-77                |
-   											   +-----------------------+-----------------------+ 
-   											   | Position              |Foward                 |
-   											   +-----------------------+-----------------------+
-   											   |Player of the Century  |1                      |
-   											   +-----------------------+-----------------------+
+   											+-----------------------+-----------------------+ 
+   											| Position              |Foward                 |
+   											+-----------------------+-----------------------+
+   											|Player of the Century  |1                      |
+   										   +-----------------------+-----------------------+
 
    											   (Sources:`Fifa Pele World Cup Stats <http://www.fifa.com/fifa-tournaments/players-coaches/people=63869>`_ `Pele 10 Compiled Statistics  <http://www.pele-10.com/pele-statistics.html>`_  `Wikipedia Player of the Century <https://en.wikipedia.org/wiki/ FIFA_Player_of_the_Century>`_  )
 
@@ -59,37 +59,37 @@ Soccer Legends
 Deigo Maradona an Argentinian Soccer Player Who was voted by Fans on FIFA.com as the player of the century, so he go the accolade along with Pele according to `Wikipedia Player of the Century <https://en.wikipedia.org/wiki/ FIFA_Player_of_the_Century>`_. He is as according to his Official Site also considered one of the greatest of all time, if not the greatest `Diego Maradona Official Site <http://www.diegomaradonagroup.com/about-me>`_.  Now I there is now denying the impact he had on the field for Argentina during their world cup runs, but greats of all time I can't see it. Now, I think considering his impact on every team he was on, and his stats he generated, I would put him in the same soccer legend category, but not greatest ever as Pele. He has a World Cup when in 1986, and he got most Assists, Silver Shoe, and Golden Ball that year. He has many more accolades to his name. Considering his career spanned half that of the co-player of the century, he made a big splash for a shortened career. Not a ton of Pro soccer players can say, they have played for 4 world cups, or won a bunch of other top honors in 11 years no doubt. His stats speak for themselves and his fans spoke loud with his player of the century win, so he is hereby given soccer legend status `Diego Maradona Official Site <http://www.diegomaradonagroup.com/about-me>`_.
 
 												**Diego Maradona Statistics**
-
+ 
 														
 											   +-----------------------+-----------------------+
-											   | Career Statistics     | Total                 |
+											   | Career Statistics     | Total                 |                       
 											   +=======================+=======================+
 											   |National Team          |Argentina              |
 											   +-----------------------+-----------------------+
 											   | World Cup Matches     |35                     |                       
 											   +-----------------------+-----------------------+
-											   | World Cup Goals       |17              	   |                      
+											   | World Cup Goals       |17              	      |                      
 											   +-----------------------+-----------------------+
 											   |World Cups Won         |1                      |
-   											   +-----------------------+-----------------------+
-   											   |World Cups Lost        |3                      |
-   											   +-----------------------+-----------------------+
+   										   +-----------------------+-----------------------+
+   										   |World Cups Lost        |3                      |
+   											+-----------------------+-----------------------+
 											   |Professional Clubs     |4                      |
-   											   +-----------------------+-----------------------+
-   											   |Career Goals           |335                    |
-   											   +-----------------------+-----------------------+
-   											   |National Team Matches  |91                     |                      
+   											+-----------------------+-----------------------+
+   											|Career Goals           |335                    |
+   										   +-----------------------+-----------------------+
+   											|National Team Matches  |91                     |                      
 											   +-----------------------+-----------------------+
 											   |National Team Goals    |34                     |
-   											   +-----------------------+-----------------------+
-   											   | Career Matches        |676                    |
-   											   +-----------------------+-----------------------+
-   											   |Years Played Pro       |1982-93                |
-   											   +-----------------------+-----------------------+
-   											   |Position               |Midfeilder             |
-   											   +-----------------------+-----------------------+
-   											   |Player of the Century  |1                      |
-   											   +-----------------------+-----------------------+
+   											+-----------------------+-----------------------+
+   											| Career Matches        |676                    |
+   											+-----------------------+-----------------------+
+   											|Years Played Pro       |1982-93                |
+   										   +-----------------------+-----------------------+
+   										   |Position               |Midfeilder             |
+   										   +-----------------------+-----------------------+
+   										   |Player of the Century  |1                      |
+   										   +-----------------------+-----------------------+
 
    											   (Sources: `Diego Maradona Offical Site <http://www.diegomaradonagroup.com/about-me>`_ `Wikipedia Player of the Century <https://en.wikipedia.org/wiki/ FIFA_Player_of_the_Century>`_  `FIFA Diego Maradona World Cup Stats  <http://www.fifa.com/fifa-tournaments/players-coaches/people=174732/index.html>`_ )
 
